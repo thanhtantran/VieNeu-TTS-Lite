@@ -1,0 +1,36 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.pytest_cache/
+
+# Virtual environments
+.venv/
+.venv
+.xpu_venv/
+.xpu_venv
+outputs/
+.env
+.env.local
+.vieneu_api_key
+.vieneu_web_enabled
+
+# Local / offline model cache (downloaded by scripts/download_models.py)
+models/
+*.wav
+
+# Build / cache junk
+__pycache__/
+*.py[oc]
+*.egg-info/
+src/*.egg-info/
+
+# Finetune Data & Checkpoints
+finetune/dataset/
+finetune/output/
+
+# Merged Models
+merged_models_cache/
