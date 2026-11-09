@@ -123,5 +123,6 @@ Xem hướng dẫn riêng: **[ORANGEPI.md](ORANGEPI.md)**
 ## LICENSE
 - Theo license mã nguồn gốc Apache License 2.0
 
-## Credít
+## Credits
 - Mã nguồn gốc https://github.com/pnnbao97/VieNeu-TTS
+- Mã nguồn ban đầu https://github.com/thanhtantran/VieNeu-TTS
